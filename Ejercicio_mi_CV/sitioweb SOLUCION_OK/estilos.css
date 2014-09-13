@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+
+body { 
+	background-color: cyan; 
+	font-family:sans-serif;
+	}
+#menu{
+	background-color: blue;
+	width:800px;
+	margin: auto;
+	padding-left: 15px;
+	}
+a {
+	margin-right:30px;
+	color: white;
+	text-decoration:none;
+	}
+#contenido{
+	background-color: white;
+	width:800px;
+	margin: auto;
+	height: 500px;
+	padding-left: 15px;
+	}
